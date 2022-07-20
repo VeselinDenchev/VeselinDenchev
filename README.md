@@ -10,13 +10,13 @@
 <h2>Social media</h2>
 <div>
     <a href="https://www.facebook.com/VeselinDenchev01/">
-        <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="Facebook" style="width: 3em; margin-right: 1em">
+        <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="Facebook" style="width: 3em; margin-right: 3em">
     </a>
     <a href="https://www.instagram.com/vesko_01/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width: 3em; margin-right: 1em">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width: 3em; margin-right: 3em">
     </a>
     <a href="https://www.linkedin.com/in/veselin-denchev-855454243/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 3em; margin-right: 1em">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 3em; margin-right: 3em">
     </a>
 </div>
 
