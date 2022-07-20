@@ -12,9 +12,11 @@
     <a href="https://www.facebook.com/VeselinDenchev01/">
         <img src="https://img.icons8.com/color/344/facebook-new.png" alt="Facebook" style="width: 3em;">
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/vesko_01/" style="margin-left: 1em">
         <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="Instagram" style="width: 3em;">
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/veselin-denchev-855454243/" style="margin-left: 1em">
         <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" style="width: 3em;">
     </a>
