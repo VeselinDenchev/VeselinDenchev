@@ -3,20 +3,20 @@
 </div>
 
 <h2>Hi, there!👋</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Veselin, I am 21 years old and I am currently stuyding Software Engineering in Veliko Tarnovo University. I like learning new things related to IT industry. I am interested in web programming. My favourite programming language and the one in which I think I am the most profficient is C#, but I also like Java and JavaScript (especially React for front-end). In the near future I am thinking about starting an internship possibly with C# (or React who knows).
+&nbsp;&nbsp;&nbsp;&nbsp;My name is Veselin, I am 21 years old and I am currently studying Software Engineering in Veliko Tarnovo University. I like learning new things related to IT industry. I am interested in web programming. My favourite programming language and the one in which I think I am the most profficient is C#, but I also like Java and JavaScript (especially React for front-end). In the near future I am thinking about starting an internship possibly with C# (or React who knows).
 
 <hr />
 
 <h2>Social media</h2>
 <div>
     <a href="https://www.facebook.com/VeselinDenchev01/">
-        <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="Facebook" style="width: 3em;">
+        <img src="https://img.icons8.com/color/344/facebook-new.png" alt="Facebook" style="width: 3em;">
     </a>
     <a href="https://www.instagram.com/vesko_01/" style="margin-left: 1em">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width: 3em;">
+        <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="Instagram" style="width: 3em;">
     </a>
     <a href="https://www.linkedin.com/in/veselin-denchev-855454243/" style="margin-left: 1em">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 3em;">
+        <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" style="width: 3em;">
     </a>
 </div>
 
@@ -27,7 +27,7 @@
 <div>
     
 </div>
-<table style="">
+<table>
     <tr>
         <th>Language</th>
         <th>Skills</th>
@@ -85,7 +85,7 @@
     <tr>
         <td>
             <div style="text-align: center">
-                <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="65%" style=" height: 3em;"></img>
+                <img src="https://camo.githubusercontent.com/acc6cab499f6dea3b6bd246685bedb40fdfa550038b3ac9d94acfcef825998b5/687474703a2f2f7265736f75726365732e7370616365786368696d702e636f6d2f696d616765732f6c6f676f732f48544d4c352e706e67" alt="65%" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
