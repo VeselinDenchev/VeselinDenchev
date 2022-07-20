@@ -39,7 +39,7 @@
             </div>
         </td>
         <td>
-            <progress value="70" max="100"></progress>
+            <progress value="70" max="100">70%</progress>
         </td>
     </tr>
     <tr>
