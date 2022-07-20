@@ -1,7 +1,3 @@
-<div id="header">
-  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" style="width: 50em"/>
-</div>
-
 <h2>Hi, there!👋</h2>
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Veselin, I am 21 years old and I am currently studying Software Engineering in Veliko Tarnovo University. I like learning new things related to IT industry. I am interested in web programming. My favourite programming language and the one in which I think I am the most profficient is C#, but I also like Java and JavaScript (especially React for front-end). In the near future I am thinking about starting an internship possibly with C# (or React who knows).
 
