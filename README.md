@@ -31,7 +31,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://softuni.bg/Content/images/university/professions/csharp.svg" alt="70%" style=" height: 3em;"></img>
+                <img src="https://softuni.bg/Content/images/university/professions/csharp.svg" alt="C#" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -41,7 +41,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="50%" style=" height: 3em;"></img>
+                <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="SQL" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -51,7 +51,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="45%" style="height: 3em;"></img>
+                <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" style="height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -61,7 +61,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="40%" style=" height: 3em;"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -71,7 +71,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="25%" style=" height: 3em;"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -81,7 +81,17 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://www.pngmart.com/files/7/PHP-PNG-File.png" alt="30%" style=" height: 3em;"></img>
+                <img src="https://www.pngmart.com/files/7/PHP-PNG-File.png" alt="PHP" style=" height: 3em;"></img>
+            </div>
+        </td>
+        <td>
+            <progress value="40" max="100">40%</progress>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel PHP" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -91,17 +101,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://www.pngmart.com/files/7/PHP-PNG-File.png" alt="30%" style=" height: 3em;"></img>
-            </div>
-        </td>
-        <td>
-            <progress value="30" max="100">30%</progress>
-        </td>
-    </tr>
-    <tr align="center">
-        <td>
-            <div>
-                <img src="https://camo.githubusercontent.com/acc6cab499f6dea3b6bd246685bedb40fdfa550038b3ac9d94acfcef825998b5/687474703a2f2f7265736f75726365732e7370616365786368696d702e636f6d2f696d616765732f6c6f676f732f48544d4c352e706e67" alt="65%" style=" height: 3em;"></img>
+                <img src="https://camo.githubusercontent.com/acc6cab499f6dea3b6bd246685bedb40fdfa550038b3ac9d94acfcef825998b5/687474703a2f2f7265736f75726365732e7370616365786368696d702e636f6d2f696d616765732f6c6f676f732f48544d4c352e706e67" alt="HTML" style=" height: 3em;"></img>
             </div>
         </td>
         <td>
@@ -111,7 +111,7 @@
     <tr align="center">
         <td>
             <div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="30%" style="height: 3em;"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" style="height: 3em;"></img>
             </div>
         </td>
         <td>
