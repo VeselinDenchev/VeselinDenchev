@@ -30,7 +30,7 @@
 <table>
     <tr>
         <th>Language</th>
-        <th>Skills</th>
+        <th>Skill %</th>
     </tr>
     <tr>
         <td>
