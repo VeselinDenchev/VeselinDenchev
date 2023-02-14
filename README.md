@@ -1,22 +1,5 @@
 <h2>Hi, there!👋</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Veselin, I am 21 years old and I am currently studying Software Engineering in Veliko Tarnovo University. I like learning new things related to IT industry. I am interested in web programming. My favourite programming language and the one in which I think I am the most profficient is C#, but I also like Java and JavaScript (especially React for front-end). In the near future I am thinking about starting an internship possibly with C# (or React who knows).
-
-<hr />
-
-<h2>Social media</h2>
-<div>
-    <a href="https://www.facebook.com/VeselinDenchev01/">
-        <img src="https://img.icons8.com/color/344/facebook-new.png" alt="Facebook" style="width: 3em;">
-    </a>
-    <a href="https://www.instagram.com/vesko_01/" style="margin-left: 1em">
-        <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="Instagram" style="width: 3em;">
-    </a>
-    <a href="https://www.linkedin.com/in/veselin-denchev-855454243/" style="margin-left: 1em">
-        <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" style="width: 3em;">
-    </a>
-</div>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;My name is Veselin, I am 22 years old and I am currently studying Software Engineering in Veliko Tarnovo University. I like learning new things related to IT industry. I am interested in web programming. My favourite programming language and the one in which I think I am the most profficient is C#, but I also like Java and JavaScript (especially React for front-end). In the near future I am thinking about starting an internship possibly with C# (or React who knows).
 <hr />
 
 <h2>Skills</h1>
@@ -115,15 +98,39 @@
             </div>
         </td>
         <td>
-            <progress value="30" max="100">30%</progress>
+            <progress value="50" max="100">50%</progress>
         </td>
     </tr>
-
+    <tr align="center">
+        <td>
+            <div>
+                <img src="https://avatars.githubusercontent.com/u/1326761?s=200&v=4" alt="Unity" style="height: 3em;"></img>
+            </div>
+        </td>
+        <td>
+            <progress value="20" max="100">20%</progress>
+        </td>
+    </tr>
 </table>
 
 <hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeselinDenchev)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
+
+<h2>Social media</h2>
+<div>
+    <a href="https://www.facebook.com/VeselinDenchev01/">
+        <img src="https://img.icons8.com/color/344/facebook-new.png" alt="Facebook" style="width: 3em;">
+    </a>
+    <a href="https://www.instagram.com/vesko_01/" style="margin-left: 1em">
+        <img src="https://img.icons8.com/color/344/instagram-new--v1.png" alt="Instagram" style="width: 3em;">
+    </a>
+    <a href="https://www.linkedin.com/in/veselin-denchev-855454243/" style="margin-left: 1em">
+        <img src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn" style="width: 3em;">
+    </a>
+</div>
 
 <!--
 **VeselinDenchev/VeselinDenchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
